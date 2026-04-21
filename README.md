@@ -1,7 +1,7 @@
 # PES-VCS Lab Report
 
-**Name:** Prajwal G  
-**SRN:** PES1UG24CS590
+**Name:** Harsha Rajeswari
+**SRN:** PES1UG24AM014
 **Platform:** Ubuntu 24.04
 
 ---
